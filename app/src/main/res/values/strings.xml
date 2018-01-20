@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jus Enak </string>
+    <string name="toping">Toping</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="rp_0">Rp. 0</string>
+</resources>
